@@ -490,34 +490,6 @@ powerbi/
 
 ---
 
-# 📁 Repository Structure
-
-```text
-amazon-prime-content-analytics/
-│
-├── README.md
-│
-├── data/
-│   └── amazon_prime_titles.csv
-│
-├── powerbi/
-│   └── Amazon_Prime_Content_Analytics.pbix
-│
-├── dashboard/
-│   ├── dashboard_overview.png
-│   └── dashboard_details.png
-│
-├── python/
-│   └── amazon_prime_analysis.py
-│
-├── sql/
-│   └── amazon_prime_analysis.sql
-│
-└── documentation/
-    └── data_dictionary.md
-```
-
----
 
 # 🚀 Future Enhancements
 
