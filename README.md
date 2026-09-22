@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![Amazon Prime Power BI Dashboard](dashboard_overview.png)
+![Amazon Prime Power BI Dashboard](dashboard_overview.png.png)
 
 ---
 
